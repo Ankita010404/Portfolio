@@ -1,0 +1,183 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container text-center mt-5">
+        <h1>Ankita Deshpande - Portfolio</h1>
+        <p class="lead">Explore my work and experiences.</p>
+        <div class="row mt-4">
+            <div class="col-md-4"><a href="summary.html" class="btn btn-primary w-100 mb-2">Summary</a></div>
+            <div class="col-md-4"><a href="experience.html" class="btn btn-primary w-100 mb-2">Experience</a></div>
+            <div class="col-md-4"><a href="education.html" class="btn btn-primary w-100 mb-2">Education</a></div>
+            <div class="col-md-4"><a href="projects.html" class="btn btn-primary w-100 mb-2">Projects</a></div>
+            <div class="col-md-4"><a href="skills.html" class="btn btn-primary w-100 mb-2">Skills</a></div>
+            <div class="col-md-4"><a href="certifications.html" class="btn btn-primary w-100 mb-2">Certifications</a></div>
+            <div class="col-md-4"><a href="languages.html" class="btn btn-primary w-100 mb-2">Languages</a></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+Summary.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summary - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Summary</h1>
+        <p>Sincere, hardworking, and committed to continuous learning and technological adaptation.</p>
+        <p>Aspiring to gain practical experience in cybersecurity by contributing to innovative projects.</p>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
+Projects.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Projects</h1>
+        <h3>OWASP Risk Calculator</h3>
+        <p>Developed a standardized risk assessment model to evaluate and rank risks.</p>
+        <h3>Missing Hosts in CS & Analysis of Alerts</h3>
+        <p>Addressed 5,000+ missing hosts in CrowdStrike using Excel tools.</p>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
+Skills.html
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Skills</h1>
+        <ul>
+            <li>Python, Java, C</li>
+            <li>HTML/CSS/JS, MySQL</li>
+            <li>Cybersecurity, Network Analysis</li>
+            <li>Digital Forensics, Kali Linux</li>
+        </ul>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
+Certification.html
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certifications - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Certifications</h1>
+        <ul>
+            <li>Google IT Support Certificate</li>
+            <li>TCS iON Career Edge</li>
+            <li>Google AI Essentials</li>
+        </ul>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
+Languages.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Languages - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Languages</h1>
+        <ul>
+            <li>Marathi - Native</li>
+            <li>English - Proficient</li>
+            <li>Hindi - Advanced</li>
+        </ul>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
+Experience.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experience - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Experience</h1>
+        <h3>SOC Intern - Harman International</h3>
+        <ul>
+            <li>Gained exposure to cybersecurity operations and monitoring.</li>
+            <li>Conducted data analysis of security incidents.</li>
+            <li>Observed team collaboration and workflow management.</li>
+            <li>Experienced the CrowdStrike shutdown incident.</li>
+        </ul>
+        <h3>Intern - Cybervidyapeeth Foundation</h3>
+        <ul>
+            <li>Gained hands-on experience with Linux commands and Digital Forensics.</li>
+        </ul>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>
+
+Education.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education - Ankita Deshpande</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Education</h1>
+        <h3>B.Tech in Computer Science and Information Technology, Cybersecurity</h3>
+        <p>Symbiosis Skills and Professional University (08/2022 - Present)</p>
+        <p>CGPA: 9.45 (1st Year), 9.44 (2nd Year)</p>
+        <h3>12th Maharashtra State Board</h3>
+        <p>Suryadutta Public School - Graduated with 73.83%</p>
+        <h3>10th CBSE Board</h3>
+        <p>The Orchid School - Graduated with 90%</p>
+        <a href="index.html" class="btn btn-secondary mt-3">Back to Portfolio</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+1. GitHub Pages (Free & Easy)
+Steps:
+Create a GitHub Repository:
+
+Go to GitHub and create a new repository (e.g., portfolio-website).
+
+Upload Your Files:
+
+If using Git:
+
+sh
+Copy
+Edit
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/portfolio-website.git
+git push -u origin main
+Alternatively, upload files manually via the GitHub web interface.
+
+Enable GitHub Pages:
+
+Go to Settings → Pages → Under Source, select main branch and save.
+
+Your site will be live at: https://your-username.github.io/portfolio-website/ 🎉
